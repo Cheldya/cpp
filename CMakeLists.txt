@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(cpp
         hello.cpp
-        README.md)
+        README.md HW1.2.cpp)
