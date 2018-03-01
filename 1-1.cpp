@@ -18,6 +18,6 @@ int main() {
     {
         p*=x;
     }
-    // cout << "p =" << p << "x =" << x << endl;
+     cout << "p =" << p << "x =" << x << endl;
     return 0;
 }
